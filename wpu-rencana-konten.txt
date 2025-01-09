@@ -2,6 +2,8 @@ rencana konten wpu
 - video mengenai javascript
 #ES6
 #frameworkjavascript
+#belajar view
 -video php framwork
+#belajar laravel
  -video interview
 struktur data

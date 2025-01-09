@@ -1,4 +1,6 @@
 rencana konten wpu
 - video mengenai javascript
+#ES6
+#frameworkjavascript
 -video php framwork
  -video interview

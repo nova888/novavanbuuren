@@ -1,2 +1,2 @@
 # novavanbuuren
-try it
+latihan percobaan
